@@ -1,6 +1,8 @@
 THIS IS FOLLOWING A TUTORIAL
 
 
+thogh there are some big changes to most of the Jsx files. Proxy 8800 didn't work, needed to parse and distribute the data differently.
+
 
 
 
